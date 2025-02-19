@@ -5,5 +5,7 @@
 
 #linuxserver/jellyfin
 
-nginx
+#nginx
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu22.04
+mysql/mysql-server
+eosphorosai/dbgpt:latest
