@@ -7,5 +7,6 @@
 
 #nginx
 #nvidia/cuda:12.8.0-cudnn-devel-ubuntu22.04
-mysql/mysql-server
-eosphorosai/dbgpt:latest
+#mysql/mysql-server
+#eosphorosai/dbgpt:latest
+rabbitmq:4.0.6-management-alpine
